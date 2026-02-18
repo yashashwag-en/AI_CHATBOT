@@ -6,7 +6,7 @@ This project demonstrates the fundamental concept of how chatbots work before us
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Responds to basic user inputs using predefined rules
 * Simple and easy-to-understand code structure
@@ -15,7 +15,7 @@ This project demonstrates the fundamental concept of how chatbots work before us
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * Basic programming concepts
@@ -26,7 +26,7 @@ This project demonstrates the fundamental concept of how chatbots work before us
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Make sure **Python** is installed on your system.
 2. Clone this repository:
@@ -47,7 +47,7 @@ This project demonstrates the fundamental concept of how chatbots work before us
 
 ---
 
-## 📚 Learning Purpose
+##  Learning Purpose
 
 This project is created for **practice and learning** to understand:
 
