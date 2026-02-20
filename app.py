@@ -63,4 +63,5 @@ while chat:
     elif user_msg == "bye":
         chat = False
     else:
+
         print("I cannot understand")
